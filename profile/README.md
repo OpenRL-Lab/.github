@@ -6,4 +6,4 @@
 [![GitHub license](https://img.shields.io/github/license/TARTRL/TARTRL)](https://github.com/TARTRL/TARTRL/blob/master/LICENSE)
 ![](https://komarev.com/ghpvc/?username=OpenRL-Lab&color=lightgrey&label=Views)
 
-We are looking for self-motivated interns and full-timers who have a strong background in mathematics/computer science and are eager to get involved in cutting-edge, fundamental AI research. If you want to join the OpenRL team, please send email to huangshiyu@4paradigm.com
+We are looking for self-motivated interns and full-timers who have a strong background in mathematics/computer science and are eager to get involved in cutting-edge, fundamental AI research. If you want to join the OpenRL Lab, please send email to huangshiyu@4paradigm.com
